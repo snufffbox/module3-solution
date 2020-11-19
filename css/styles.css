@@ -1,0 +1,17 @@
+.navbar-brand span {
+    color: #557c3e;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#nav-list a {
+    border: 1px solid;
+}
+
+#nav-list a:hover,  #nav-list a:focus{
+    color: #557c3e;
+}
+
+#main-content section {
+    background-color: #f6b319;
+}
